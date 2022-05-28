@@ -2,7 +2,7 @@
  A simple calculator i develop during my learning phase of Android studio.
  
  Also, i used the UI colors given by the latest version of the IDE.
-https://github.com/DeepakKool/SimpleCalC/blob/main/images/Screenshot_2022-05-28-17-49-47-681.jpeg
+![](images/Screenshot_2022-05-28-17-49-47-681.jpeg)
 
 It is able to do all basic calculations.
 https://github.com/DeepakKool/SimpleCalC/blob/main/images/jpegScreenshot_2022-05-28-17-49-58-466.jpeg
