@@ -1,5 +1,5 @@
 # SimpleCalC
- A simple calculator i develop during my learning phase of Android studio.
+ A simple calculator i developed during my learning phase of Android studio.
  
  Also, i used the UI colors given by the latest version of the IDE.
 ![](images/Screenshot_2022-05-28-17-49-47-681.jpeg)
